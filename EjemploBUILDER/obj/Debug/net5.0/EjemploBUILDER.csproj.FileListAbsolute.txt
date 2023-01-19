@@ -1,0 +1,16 @@
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\bin\Debug\net5.0\EjemploBUILDER.exe
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\bin\Debug\net5.0\EjemploBUILDER.deps.json
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\bin\Debug\net5.0\EjemploBUILDER.runtimeconfig.json
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\bin\Debug\net5.0\EjemploBUILDER.runtimeconfig.dev.json
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\bin\Debug\net5.0\EjemploBUILDER.dll
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\bin\Debug\net5.0\ref\EjemploBUILDER.dll
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\bin\Debug\net5.0\EjemploBUILDER.pdb
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\obj\Debug\net5.0\EjemploBUILDER.csproj.AssemblyReference.cache
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\obj\Debug\net5.0\EjemploBUILDER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\obj\Debug\net5.0\EjemploBUILDER.AssemblyInfoInputs.cache
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\obj\Debug\net5.0\EjemploBUILDER.AssemblyInfo.cs
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\obj\Debug\net5.0\EjemploBUILDER.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\obj\Debug\net5.0\EjemploBUILDER.dll
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\obj\Debug\net5.0\ref\EjemploBUILDER.dll
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\obj\Debug\net5.0\EjemploBUILDER.pdb
+C:\Users\fabri\Desktop\Universidad\MODELADO DE SOFTWARE\EjemploBUILDER\EjemploBUILDER\obj\Debug\net5.0\EjemploBUILDER.genruntimeconfig.cache
